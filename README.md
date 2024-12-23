@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in TypeScript object comparison and its solution. The `bug.ts` file contains a function that attempts to compare two objects. However, it fails to correctly handle nested objects and functions. The `bugSolution.ts` file provides a corrected version using `deepCompare` function.
